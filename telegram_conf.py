@@ -1,0 +1,1 @@
+telegram_token_news = '529491182:AAHQ3agnWl3KVlSVcPLBh_djAE487d9gnhQ'

@@ -1,0 +1,11 @@
+03/02/2020 10:30:05 AM SELECT CAST('test plain returns' AS VARCHAR(60)) AS anon_1
+03/02/2020 10:30:05 AM ()
+03/02/2020 10:30:05 AM SELECT CAST('test unicode returns' AS VARCHAR(60)) AS anon_1
+03/02/2020 10:30:05 AM ()
+03/02/2020 10:30:05 AM BEGIN (implicit)
+03/02/2020 10:30:05 AM SELECT "Groups".id AS "Groups_id", "Groups".id_group AS "Groups_id_group", "Groups".short_name AS "Groups_short_name" 
+FROM "Groups"
+03/02/2020 10:30:05 AM ()
+03/02/2020 10:30:05 AM SELECT "Hash".id AS "Hash_id", "Hash".hash AS "Hash_hash", "Hash".timestamp AS "Hash_timestamp" 
+FROM "Hash"
+03/02/2020 10:30:05 AM ()
